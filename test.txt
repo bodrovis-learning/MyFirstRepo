@@ -1,2 +1,4 @@
 Hello!
 I'm doing another commit....
+Hello from another user!
+I'm doing changes in fork.
